@@ -1,4 +1,7 @@
 # Proyecto_Automatizacion
+Para ver los JS, ingresar a la siguiente ruta:
+automation-project\node_modules\cypress\integration\paginas
+
 Configura un nuevo proyecto Node.js:
   mkdir todo-automation
   cd todo-automation
